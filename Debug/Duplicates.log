@@ -1,0 +1,3 @@
+﻿  Duplicates.cpp
+C:\Users\Maciej\source\repos\Duplicates\Duplicates\Duplicates.cpp(18,19): warning C4018: '<': signed/unsigned mismatch
+  Duplicates.vcxproj -> C:\Users\Maciej\source\repos\Duplicates\Debug\Duplicates.exe
